@@ -1,21 +1,3 @@
-  Skip to content
-Music-Top
-/
-TOPAC
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-TOPAC/MusicTop/التشغيل.py
-@Music-Top
-Music-Top Add files via upload
- 1 contributor
-411 lines (401 sloc)  18.4 KB
 import asyncio
 import math
 import os
